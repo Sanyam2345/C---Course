@@ -4,31 +4,14 @@ project(CPP_Course)
 # Set the C++ standard
 set(CMAKE_CXX_STANDARD 17)
 
-# Add all sections with their respective files
-# Adjust folder names and file extensions as necessary
-file(GLOB_RECURSE SECTION4 "Section 4/*.cpp")
-file(GLOB_RECURSE SECTION6 "Section 6/*.cpp")
-file(GLOB_RECURSE SECTION7 "Section 7/*.cpp")
-file(GLOB_RECURSE SECTION8 "Section 8/*.cpp")
-file(GLOB_RECURSE SECTION9 "Section 9/*.cpp")
-file(GLOB_RECURSE SECTION10 "Section 10/*.cpp")
-file(GLOB_RECURSE SECTION11 "Section 11/*.cpp")
-file(GLOB_RECURSE SECTION12 "Section 12/*.cpp")
-file(GLOB_RECURSE SECTION13 "Section 13/*.cpp")
+# Find all 'main.cpp' files recursively
+file(GLOB_RECURSE MAIN_CPP_FILES RELATIVE ${CMAKE_SOURCE_DIR} */main.cpp)
 
-# Combine all source files into one list
-set(SOURCES
-    ${SECTION4}
-    ${SECTION6}
-    ${SECTION7}
-    ${SECTION8}
-    ${SECTION9}
-    ${SECTION10}
-    ${SECTION11}
-    ${SECTION12}
-    ${SECTION13}
-)
+# Loop through all 'main.cpp' files and create an executable for each
+foreach(MAIN_CPP_FILE ${MAIN_CPP_FILES})
+    # Extract the file name (e.g., main.cpp -> main)
+    get_filename_component(EXECUTABLE_NAME ${MAIN_CPP_FILE} NAME_WE)
 
-# Create the executable
-add_executable(${PROJECT_NAME} ${SOURCES})
-
+    # Create an executable using the file name
+    add_executable(${EXECUTABLE_NAME} ${MAIN_CPP_FILE})
+endforeach()
