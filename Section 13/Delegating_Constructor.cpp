@@ -13,13 +13,13 @@ class Player {
     void print ();
 };
 Player::Player()
-    :Player{NULL,0,0} {
+    :Player{"None",0,0} {
 }
 Player::Player(string name_val)
     :Player{name_val,0,0} {
 }
 Player::Player(string name_val, int health_val, int xp_val)
-    :Player{name_val,health_val,xp_val} {
+    :name {name_val}, health{health_val}, xp{xp_val} {
 }
 void Player::print() {
     cout << "Name: " << name << "\tHealth: " << health << "\tXP: " << xp << endl;
