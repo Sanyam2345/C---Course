@@ -13,5 +13,7 @@ foreach(MAIN_CPP_FILE ${MAIN_CPP_FILES})
     get_filename_component(EXECUTABLE_NAME ${MAIN_CPP_FILE} NAME_WE)
 
     # Create an executable using the file name
-    add_executable(${EXECUTABLE_NAME} ${MAIN_CPP_FILE})
+    add_executable(${EXECUTABLE_NAME} ${MAIN_CPP_FILE}
+            "../Section 13/Declare_Class_and_Create_Objects.cpp"
+            "../Section 13/Delegating_Constructor.cpp")
 endforeach()
