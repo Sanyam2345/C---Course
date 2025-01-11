@@ -250,6 +250,15 @@ CPP_Course_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 CPP_Course_SOURCE_DIR:STATIC=C:/Users/SANYAM/OneDrive/Desktop/C++ Course
 
+//Value Computed by CMake
+Project_BINARY_DIR:STATIC=C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build
+
+//Value Computed by CMake
+Project_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Project_SOURCE_DIR:STATIC=C:/Users/SANYAM/OneDrive/Desktop/C++ Course
+
 
 ########################
 # INTERNAL cache entries

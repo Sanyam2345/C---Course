@@ -68,346 +68,10 @@ include CMakeFiles/CPP_Course.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CPP_Course.dir/flags.make
 
-CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 4/First_Program.cpp
-CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_4\First_Program.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_4\First_Program.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\First_Program.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\First_Program.cpp" > CMakeFiles\CPP_Course.dir\Section_4\First_Program.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\First_Program.cpp" -o CMakeFiles\CPP_Course.dir\Section_4\First_Program.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 4/Section_Challenge.cpp
-CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_4\Section_Challenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_4\Section_Challenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\Section_Challenge.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\Section_Challenge.cpp" > CMakeFiles\CPP_Course.dir\Section_4\Section_Challenge.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\Section_Challenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_4\Section_Challenge.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 6/Section_Challenge.cpp
-CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_6\Section_Challenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_6\Section_Challenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 6\Section_Challenge.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 6\Section_Challenge.cpp" > CMakeFiles\CPP_Course.dir\Section_6\Section_Challenge.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 6\Section_Challenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_6\Section_Challenge.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 7/Section_challenge.cpp
-CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_7\Section_challenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_7\Section_challenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Section_challenge.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Section_challenge.cpp" > CMakeFiles\CPP_Course.dir\Section_7\Section_challenge.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Section_challenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_7\Section_challenge.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 7/Theory.cpp
-CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_7\Theory.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_7\Theory.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Theory.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Theory.cpp" > CMakeFiles\CPP_Course.dir\Section_7\Theory.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Theory.cpp" -o CMakeFiles\CPP_Course.dir\Section_7\Theory.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Assignment.cpp
-CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Assignment.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Assignment.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Assignment.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Assignment.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Assignment.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Assignment.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Assignment.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Increment_Decrement.cpp
-CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Increment_Decrement.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Increment_Decrement.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Increment_Decrement.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Increment_Decrement.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Increment_Decrement.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Increment_Decrement.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Increment_Decrement.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Logical_Operator.cpp
-CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Logical_Operator.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Logical_Operator.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Logical_Operator.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Logical_Operator.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Logical_Operator.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Logical_Operator.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Logical_Operator.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Mixed_Type_Operations.cpp
-CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Mixed_Type_Operations.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Mixed_Type_Operations.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Mixed_Type_Operations.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Mixed_Type_Operations.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Mixed_Type_Operations.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Mixed_Type_Operations.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Mixed_Type_Operations.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Relational_Operators.cpp
-CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Relational_Operators.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Relational_Operators.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Relational_Operators.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Relational_Operators.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Relational_Operators.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Relational_Operators.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Relational_Operators.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Section_Challenge.cpp
-CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Section_Challenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Section_Challenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Section_Challenge.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Section_Challenge.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Section_Challenge.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Section_Challenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Section_Challenge.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Testing_For_Equality.cpp
-CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Testing_For_Equality.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Testing_For_Equality.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Testing_For_Equality.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Testing_For_Equality.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Testing_For_Equality.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Testing_For_Equality.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Testing_For_Equality.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/Conditional_Or_Ternary_Operator.cpp
-CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\Conditional_Or_Ternary_Operator.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\Conditional_Or_Ternary_Operator.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Conditional_Or_Ternary_Operator.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Conditional_Or_Ternary_Operator.cpp" > CMakeFiles\CPP_Course.dir\Section_9\Conditional_Or_Ternary_Operator.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Conditional_Or_Ternary_Operator.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\Conditional_Or_Ternary_Operator.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/Continue_break.cpp
-CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\Continue_break.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\Continue_break.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Continue_break.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Continue_break.cpp" > CMakeFiles\CPP_Course.dir\Section_9\Continue_break.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Continue_break.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\Continue_break.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/SectionChallenge.cpp
-CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\SectionChallenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\SectionChallenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\SectionChallenge.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\SectionChallenge.cpp" > CMakeFiles\CPP_Course.dir\Section_9\SectionChallenge.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\SectionChallenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\SectionChallenge.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/do_while_loop.cpp
-CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\do_while_loop.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\do_while_loop.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\do_while_loop.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\do_while_loop.cpp" > CMakeFiles\CPP_Course.dir\Section_9\do_while_loop.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\do_while_loop.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\do_while_loop.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/for_loop.cpp
-CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\for_loop.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\for_loop.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\for_loop.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\for_loop.cpp" > CMakeFiles\CPP_Course.dir\Section_9\for_loop.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\for_loop.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\for_loop.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/if_else_statement.cpp
-CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\if_else_statement.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\if_else_statement.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_else_statement.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_else_statement.cpp" > CMakeFiles\CPP_Course.dir\Section_9\if_else_statement.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_else_statement.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\if_else_statement.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/if_statement.cpp
-CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\if_statement.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\if_statement.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_statement.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_statement.cpp" > CMakeFiles\CPP_Course.dir\Section_9\if_statement.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_statement.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\if_statement.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/infinite_loops.cpp
-CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\infinite_loops.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\infinite_loops.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\infinite_loops.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\infinite_loops.cpp" > CMakeFiles\CPP_Course.dir\Section_9\infinite_loops.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\infinite_loops.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\infinite_loops.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/nested_if_else.cpp
-CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\nested_if_else.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\nested_if_else.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_if_else.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_if_else.cpp" > CMakeFiles\CPP_Course.dir\Section_9\nested_if_else.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_if_else.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\nested_if_else.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/nested_loops.cpp
-CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\nested_loops.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\nested_loops.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_loops.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_loops.cpp" > CMakeFiles\CPP_Course.dir\Section_9\nested_loops.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_loops.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\nested_loops.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/switch_statement.cpp
-CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\switch_statement.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\switch_statement.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\switch_statement.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\switch_statement.cpp" > CMakeFiles\CPP_Course.dir\Section_9\switch_statement.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\switch_statement.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\switch_statement.cpp.s
-
-CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
-CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/whileloop.cpp
-CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\whileloop.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\whileloop.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\whileloop.cpp"
-
-CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\whileloop.cpp" > CMakeFiles\CPP_Course.dir\Section_9\whileloop.cpp.i
-
-CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\whileloop.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\whileloop.cpp.s
-
 CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 10/C++_Style_Strings.cpp
 CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_10\C++_Style_Strings.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_10\C++_Style_Strings.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 10\C++_Style_Strings.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.i: cmake_force
@@ -421,7 +85,7 @@ CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 10/C_Style_Strings.cpp
 CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_10\C_Style_Strings.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_10\C_Style_Strings.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 10\C_Style_Strings.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.i: cmake_force
@@ -435,7 +99,7 @@ CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 10/SectionChallenge.cpp
 CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_10\SectionChallenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_10\SectionChallenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 10\SectionChallenge.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.i: cmake_force
@@ -449,7 +113,7 @@ CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_11/DefaultArgumentValuesAndFunctionOverloading.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_11/DefaultArgumentValuesAndFunctionOverloading.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 11/DefaultArgumentValuesAndFunctionOverloading.cpp
 CMakeFiles/CPP_Course.dir/Section_11/DefaultArgumentValuesAndFunctionOverloading.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/DefaultArgumentValuesAndFunctionOverloading.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/DefaultArgumentValuesAndFunctionOverloading.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_11/DefaultArgumentValuesAndFunctionOverloading.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_11\DefaultArgumentValuesAndFunctionOverloading.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_11\DefaultArgumentValuesAndFunctionOverloading.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 11\DefaultArgumentValuesAndFunctionOverloading.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_11/DefaultArgumentValuesAndFunctionOverloading.cpp.i: cmake_force
@@ -463,7 +127,7 @@ CMakeFiles/CPP_Course.dir/Section_11/DefaultArgumentValuesAndFunctionOverloading
 CMakeFiles/CPP_Course.dir/Section_11/Factorial.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_11/Factorial.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 11/Factorial.cpp
 CMakeFiles/CPP_Course.dir/Section_11/Factorial.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/Factorial.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/Factorial.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_11/Factorial.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_11\Factorial.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_11\Factorial.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 11\Factorial.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_11/Factorial.cpp.i: cmake_force
@@ -477,7 +141,7 @@ CMakeFiles/CPP_Course.dir/Section_11/Factorial.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_11/Fibonacci.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_11/Fibonacci.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 11/Fibonacci.cpp
 CMakeFiles/CPP_Course.dir/Section_11/Fibonacci.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/Fibonacci.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/Fibonacci.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_11/Fibonacci.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_11\Fibonacci.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_11\Fibonacci.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 11\Fibonacci.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_11/Fibonacci.cpp.i: cmake_force
@@ -491,7 +155,7 @@ CMakeFiles/CPP_Course.dir/Section_11/Fibonacci.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_11/defining_function.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_11/defining_function.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 11/defining_function.cpp
 CMakeFiles/CPP_Course.dir/Section_11/defining_function.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/defining_function.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/defining_function.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_11/defining_function.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_11\defining_function.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_11\defining_function.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 11\defining_function.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_11/defining_function.cpp.i: cmake_force
@@ -505,7 +169,7 @@ CMakeFiles/CPP_Course.dir/Section_11/defining_function.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_11/inlineFunctions.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_11/inlineFunctions.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 11/inlineFunctions.cpp
 CMakeFiles/CPP_Course.dir/Section_11/inlineFunctions.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/inlineFunctions.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/inlineFunctions.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_11/inlineFunctions.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_11\inlineFunctions.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_11\inlineFunctions.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 11\inlineFunctions.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_11/inlineFunctions.cpp.i: cmake_force
@@ -519,7 +183,7 @@ CMakeFiles/CPP_Course.dir/Section_11/inlineFunctions.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_11/pass_by_reference.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_11/pass_by_reference.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 11/pass_by_reference.cpp
 CMakeFiles/CPP_Course.dir/Section_11/pass_by_reference.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/pass_by_reference.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/pass_by_reference.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_11/pass_by_reference.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_11\pass_by_reference.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_11\pass_by_reference.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 11\pass_by_reference.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_11/pass_by_reference.cpp.i: cmake_force
@@ -533,7 +197,7 @@ CMakeFiles/CPP_Course.dir/Section_11/pass_by_reference.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_11/passing_arrays_to_function.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_11/passing_arrays_to_function.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 11/passing_arrays_to_function.cpp
 CMakeFiles/CPP_Course.dir/Section_11/passing_arrays_to_function.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/passing_arrays_to_function.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/passing_arrays_to_function.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_11/passing_arrays_to_function.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_11\passing_arrays_to_function.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_11\passing_arrays_to_function.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 11\passing_arrays_to_function.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_11/passing_arrays_to_function.cpp.i: cmake_force
@@ -547,7 +211,7 @@ CMakeFiles/CPP_Course.dir/Section_11/passing_arrays_to_function.cpp.s: cmake_for
 CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Reference.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Reference.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 11/vectorExample_Pass_By_Reference.cpp
 CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Reference.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Reference.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Reference.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Reference.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_11\vectorExample_Pass_By_Reference.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_11\vectorExample_Pass_By_Reference.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 11\vectorExample_Pass_By_Reference.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Reference.cpp.i: cmake_force
@@ -561,7 +225,7 @@ CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Reference.cpp.s: cmak
 CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Value.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Value.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 11/vectorExample_Pass_By_Value.cpp
 CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Value.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Value.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Value.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Value.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_11\vectorExample_Pass_By_Value.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_11\vectorExample_Pass_By_Value.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 11\vectorExample_Pass_By_Value.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Value.cpp.i: cmake_force
@@ -575,7 +239,7 @@ CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Value.cpp.s: cmake_fo
 CMakeFiles/CPP_Course.dir/Section_12/Accesing_pointer_Address.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Accesing_pointer_Address.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Accesing_pointer_Address.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Accesing_pointer_Address.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Accesing_pointer_Address.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Accesing_pointer_Address.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Accesing_pointer_Address.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Accesing_pointer_Address.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Accesing_pointer_Address.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Accesing_pointer_Address.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Accesing_pointer_Address.cpp.i: cmake_force
@@ -589,7 +253,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Accesing_pointer_Address.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_12/Comparing_two_pointers.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Comparing_two_pointers.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Comparing_two_pointers.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Comparing_two_pointers.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Comparing_two_pointers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Comparing_two_pointers.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Comparing_two_pointers.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Comparing_two_pointers.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Comparing_two_pointers.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Comparing_two_pointers.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Comparing_two_pointers.cpp.i: cmake_force
@@ -603,7 +267,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Comparing_two_pointers.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_12/Declaring_pointers.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Declaring_pointers.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Declaring_pointers.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Declaring_pointers.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Declaring_pointers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Declaring_pointers.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Declaring_pointers.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Declaring_pointers.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Declaring_pointers.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Declaring_pointers.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Declaring_pointers.cpp.i: cmake_force
@@ -617,7 +281,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Declaring_pointers.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_12/Dereferencing_a_Pointer.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Dereferencing_a_Pointer.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Dereferencing_a_Pointer.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Dereferencing_a_Pointer.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Dereferencing_a_Pointer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Dereferencing_a_Pointer.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Dereferencing_a_Pointer.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Dereferencing_a_Pointer.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Dereferencing_a_Pointer.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Dereferencing_a_Pointer.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Dereferencing_a_Pointer.cpp.i: cmake_force
@@ -631,7 +295,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Dereferencing_a_Pointer.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Dynamic_Memory_Allocation.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Dynamic_Memory_Allocation.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Dynamic_Memory_Allocation.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Dynamic_Memory_Allocation.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation.cpp.i: cmake_force
@@ -645,7 +309,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation.cpp.s: cmake_forc
 CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation_array.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation_array.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Dynamic_Memory_Allocation_array.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation_array.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation_array.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation_array.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Dynamic_Memory_Allocation_array.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Dynamic_Memory_Allocation_array.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Dynamic_Memory_Allocation_array.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation_array.cpp.i: cmake_force
@@ -659,7 +323,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation_array.cpp.s: cmak
 CMakeFiles/CPP_Course.dir/Section_12/Relation_Between_Arrays_and_Pointers.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Relation_Between_Arrays_and_Pointers.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Relation_Between_Arrays_and_Pointers.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Relation_Between_Arrays_and_Pointers.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Relation_Between_Arrays_and_Pointers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Relation_Between_Arrays_and_Pointers.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Relation_Between_Arrays_and_Pointers.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Relation_Between_Arrays_and_Pointers.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Relation_Between_Arrays_and_Pointers.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Relation_Between_Arrays_and_Pointers.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Relation_Between_Arrays_and_Pointers.cpp.i: cmake_force
@@ -673,7 +337,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Relation_Between_Arrays_and_Pointers.cpp.s:
 CMakeFiles/CPP_Course.dir/Section_12/Return_Dynamically_allocated_Memory.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Return_Dynamically_allocated_Memory.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Return_Dynamically_allocated_Memory.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Return_Dynamically_allocated_Memory.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Return_Dynamically_allocated_Memory.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Return_Dynamically_allocated_Memory.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Return_Dynamically_allocated_Memory.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Return_Dynamically_allocated_Memory.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Return_Dynamically_allocated_Memory.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Return_Dynamically_allocated_Memory.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Return_Dynamically_allocated_Memory.cpp.i: cmake_force
@@ -687,7 +351,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Return_Dynamically_allocated_Memory.cpp.s: 
 CMakeFiles/CPP_Course.dir/Section_12/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Section_Challenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Section_Challenge.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Section_Challenge.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Section_Challenge.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Section_Challenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Section_Challenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Section_Challenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Section_Challenge.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Section_Challenge.cpp.i: cmake_force
@@ -701,7 +365,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Section_Challenge.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_12/Storing_An_Address_In_Pointer_Variables.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/Storing_An_Address_In_Pointer_Variables.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/Storing_An_Address_In_Pointer_Variables.cpp
 CMakeFiles/CPP_Course.dir/Section_12/Storing_An_Address_In_Pointer_Variables.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Storing_An_Address_In_Pointer_Variables.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/Storing_An_Address_In_Pointer_Variables.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/Storing_An_Address_In_Pointer_Variables.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\Storing_An_Address_In_Pointer_Variables.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\Storing_An_Address_In_Pointer_Variables.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\Storing_An_Address_In_Pointer_Variables.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/Storing_An_Address_In_Pointer_Variables.cpp.i: cmake_force
@@ -715,7 +379,7 @@ CMakeFiles/CPP_Course.dir/Section_12/Storing_An_Address_In_Pointer_Variables.cpp
 CMakeFiles/CPP_Course.dir/Section_12/pointers_In_Functions.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_12/pointers_In_Functions.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 12/pointers_In_Functions.cpp
 CMakeFiles/CPP_Course.dir/Section_12/pointers_In_Functions.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/pointers_In_Functions.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/CPP_Course.dir/Section_12/pointers_In_Functions.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_12/pointers_In_Functions.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_12\pointers_In_Functions.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_12\pointers_In_Functions.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 12\pointers_In_Functions.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_12/pointers_In_Functions.cpp.i: cmake_force
@@ -729,7 +393,7 @@ CMakeFiles/CPP_Course.dir/Section_12/pointers_In_Functions.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_13/Accessing_Class_Members.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Accessing_Class_Members.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Accessing_Class_Members.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Accessing_Class_Members.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Accessing_Class_Members.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Accessing_Class_Members.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Accessing_Class_Members.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Accessing_Class_Members.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Accessing_Class_Members.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Accessing_Class_Members.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Accessing_Class_Members.cpp.i: cmake_force
@@ -743,7 +407,7 @@ CMakeFiles/CPP_Course.dir/Section_13/Accessing_Class_Members.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_13/Constructor_Initialization_list.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Constructor_Initialization_list.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Constructor_Initialization_list.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Constructor_Initialization_list.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Constructor_Initialization_list.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Constructor_Initialization_list.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Constructor_Initialization_list.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Constructor_Initialization_list.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Constructor_Initialization_list.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Constructor_Initialization_list.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Constructor_Initialization_list.cpp.i: cmake_force
@@ -757,7 +421,7 @@ CMakeFiles/CPP_Course.dir/Section_13/Constructor_Initialization_list.cpp.s: cmak
 CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Constructors_and_Destructors.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Constructors_and_Destructors.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Constructors_and_Destructors.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Constructors_and_Destructors.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.i: cmake_force
@@ -771,7 +435,7 @@ CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.s: cmake_f
 CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Declare_Class_and_Create_Objects.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Declare_Class_and_Create_Objects.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Declare_Class_and_Create_Objects.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Declare_Class_and_Create_Objects.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.i: cmake_force
@@ -785,7 +449,7 @@ CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.s: cma
 CMakeFiles/CPP_Course.dir/Section_13/Default_Constructor_Parameters.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Default_Constructor_Parameters.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Default_Constructor_Parameters.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Default_Constructor_Parameters.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Default_Constructor_Parameters.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Default_Constructor_Parameters.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Default_Constructor_Parameters.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Default_Constructor_Parameters.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Default_Constructor_Parameters.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Default_Constructor_Parameters.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Default_Constructor_Parameters.cpp.i: cmake_force
@@ -799,7 +463,7 @@ CMakeFiles/CPP_Course.dir/Section_13/Default_Constructor_Parameters.cpp.s: cmake
 CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Delegating_Constructor.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Delegating_Constructor.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Delegating_Constructor.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Delegating_Constructor.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.i: cmake_force
@@ -813,7 +477,7 @@ CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.s: cmake_force
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Implementing\ Member\ Methods/Account.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Implementing_Member_Methods\Account.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Implementing_Member_Methods\Account.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Implementing Member Methods\Account.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.i: cmake_force
@@ -827,7 +491,7 @@ CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.s: 
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Implementing\ Member\ Methods/Account_main.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Implementing_Member_Methods\Account_main.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Implementing_Member_Methods\Account_main.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Implementing Member Methods\Account_main.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.i: cmake_force
@@ -841,7 +505,7 @@ CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cp
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Implementing\ Member\ Methods/Outside_Class_Declaration.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Implementing_Member_Methods\Outside_Class_Declaration.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Implementing_Member_Methods\Outside_Class_Declaration.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Implementing Member Methods\Outside_Class_Declaration.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.i: cmake_force
@@ -855,7 +519,7 @@ CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_D
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 13/Implementing\ Member\ Methods/inside_Class_Declaration.cpp
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_13\Implementing_Member_Methods\inside_Class_Declaration.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_13\Implementing_Member_Methods\inside_Class_Declaration.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Implementing Member Methods\inside_Class_Declaration.cpp"
 
 CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.i: cmake_force
@@ -866,32 +530,344 @@ CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_De
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 13\Implementing Member Methods\inside_Class_Declaration.cpp" -o CMakeFiles\CPP_Course.dir\Section_13\Implementing_Member_Methods\inside_Class_Declaration.cpp.s
 
+CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 4/First_Program.cpp
+CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_4\First_Program.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_4\First_Program.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\First_Program.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\First_Program.cpp" > CMakeFiles\CPP_Course.dir\Section_4\First_Program.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\First_Program.cpp" -o CMakeFiles\CPP_Course.dir\Section_4\First_Program.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 4/Section_Challenge.cpp
+CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_4\Section_Challenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_4\Section_Challenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\Section_Challenge.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\Section_Challenge.cpp" > CMakeFiles\CPP_Course.dir\Section_4\Section_Challenge.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 4\Section_Challenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_4\Section_Challenge.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 6/Section_Challenge.cpp
+CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_6\Section_Challenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_6\Section_Challenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 6\Section_Challenge.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 6\Section_Challenge.cpp" > CMakeFiles\CPP_Course.dir\Section_6\Section_Challenge.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 6\Section_Challenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_6\Section_Challenge.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 7/Section_challenge.cpp
+CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_7\Section_challenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_7\Section_challenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Section_challenge.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Section_challenge.cpp" > CMakeFiles\CPP_Course.dir\Section_7\Section_challenge.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Section_challenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_7\Section_challenge.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 7/Theory.cpp
+CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_7\Theory.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_7\Theory.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Theory.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Theory.cpp" > CMakeFiles\CPP_Course.dir\Section_7\Theory.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 7\Theory.cpp" -o CMakeFiles\CPP_Course.dir\Section_7\Theory.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Assignment.cpp
+CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Assignment.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Assignment.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Assignment.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Assignment.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Assignment.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Assignment.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Assignment.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Increment_Decrement.cpp
+CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Increment_Decrement.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Increment_Decrement.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Increment_Decrement.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Increment_Decrement.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Increment_Decrement.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Increment_Decrement.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Increment_Decrement.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Logical_Operator.cpp
+CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Logical_Operator.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Logical_Operator.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Logical_Operator.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Logical_Operator.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Logical_Operator.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Logical_Operator.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Logical_Operator.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Mixed_Type_Operations.cpp
+CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Mixed_Type_Operations.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Mixed_Type_Operations.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Mixed_Type_Operations.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Mixed_Type_Operations.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Mixed_Type_Operations.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Mixed_Type_Operations.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Mixed_Type_Operations.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Relational_Operators.cpp
+CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Relational_Operators.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Relational_Operators.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Relational_Operators.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Relational_Operators.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Relational_Operators.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Relational_Operators.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Relational_Operators.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Section_Challenge.cpp
+CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Section_Challenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Section_Challenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Section_Challenge.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Section_Challenge.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Section_Challenge.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Section_Challenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Section_Challenge.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 8/Testing_For_Equality.cpp
+CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_8\Testing_For_Equality.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_8\Testing_For_Equality.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Testing_For_Equality.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Testing_For_Equality.cpp" > CMakeFiles\CPP_Course.dir\Section_8\Testing_For_Equality.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 8\Testing_For_Equality.cpp" -o CMakeFiles\CPP_Course.dir\Section_8\Testing_For_Equality.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/Conditional_Or_Ternary_Operator.cpp
+CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\Conditional_Or_Ternary_Operator.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\Conditional_Or_Ternary_Operator.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Conditional_Or_Ternary_Operator.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Conditional_Or_Ternary_Operator.cpp" > CMakeFiles\CPP_Course.dir\Section_9\Conditional_Or_Ternary_Operator.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Conditional_Or_Ternary_Operator.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\Conditional_Or_Ternary_Operator.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/Continue_break.cpp
+CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\Continue_break.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\Continue_break.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Continue_break.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Continue_break.cpp" > CMakeFiles\CPP_Course.dir\Section_9\Continue_break.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\Continue_break.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\Continue_break.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/SectionChallenge.cpp
+CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\SectionChallenge.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\SectionChallenge.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\SectionChallenge.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\SectionChallenge.cpp" > CMakeFiles\CPP_Course.dir\Section_9\SectionChallenge.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\SectionChallenge.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\SectionChallenge.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/do_while_loop.cpp
+CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\do_while_loop.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\do_while_loop.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\do_while_loop.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\do_while_loop.cpp" > CMakeFiles\CPP_Course.dir\Section_9\do_while_loop.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\do_while_loop.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\do_while_loop.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/for_loop.cpp
+CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\for_loop.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\for_loop.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\for_loop.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\for_loop.cpp" > CMakeFiles\CPP_Course.dir\Section_9\for_loop.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\for_loop.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\for_loop.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/if_else_statement.cpp
+CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\if_else_statement.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\if_else_statement.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_else_statement.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_else_statement.cpp" > CMakeFiles\CPP_Course.dir\Section_9\if_else_statement.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_else_statement.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\if_else_statement.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/if_statement.cpp
+CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\if_statement.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\if_statement.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_statement.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_statement.cpp" > CMakeFiles\CPP_Course.dir\Section_9\if_statement.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\if_statement.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\if_statement.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/infinite_loops.cpp
+CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\infinite_loops.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\infinite_loops.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\infinite_loops.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\infinite_loops.cpp" > CMakeFiles\CPP_Course.dir\Section_9\infinite_loops.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\infinite_loops.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\infinite_loops.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/nested_if_else.cpp
+CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\nested_if_else.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\nested_if_else.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_if_else.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_if_else.cpp" > CMakeFiles\CPP_Course.dir\Section_9\nested_if_else.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_if_else.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\nested_if_else.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/nested_loops.cpp
+CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\nested_loops.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\nested_loops.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_loops.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_loops.cpp" > CMakeFiles\CPP_Course.dir\Section_9\nested_loops.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\nested_loops.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\nested_loops.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/switch_statement.cpp
+CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\switch_statement.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\switch_statement.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\switch_statement.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\switch_statement.cpp" > CMakeFiles\CPP_Course.dir\Section_9\switch_statement.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\switch_statement.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\switch_statement.cpp.s
+
+CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj: CMakeFiles/CPP_Course.dir/flags.make
+CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj: C:/Users/SANYAM/OneDrive/Desktop/C++\ Course/Section\ 9/whileloop.cpp
+CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj: CMakeFiles/CPP_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\SANYAM\OneDrive\Desktop\C++ Course\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj -MF CMakeFiles\CPP_Course.dir\Section_9\whileloop.cpp.obj.d -o CMakeFiles\CPP_Course.dir\Section_9\whileloop.cpp.obj -c "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\whileloop.cpp"
+
+CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\whileloop.cpp" > CMakeFiles\CPP_Course.dir\Section_9\whileloop.cpp.i
+
+CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\SANYAM\OneDrive\Desktop\C++ Course\Section 9\whileloop.cpp" -o CMakeFiles\CPP_Course.dir\Section_9\whileloop.cpp.s
+
 # Object files for target CPP_Course
 CPP_Course_OBJECTS = \
-"CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj" \
 "CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.obj" \
 "CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.obj" \
 "CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.obj" \
@@ -924,35 +900,35 @@ CPP_Course_OBJECTS = \
 "CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.obj" \
 "CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.obj" \
 "CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.obj" \
-"CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj"
+"CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj" \
+"CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj"
 
 # External object files for target CPP_Course
 CPP_Course_EXTERNAL_OBJECTS =
 
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj
-CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj
 CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.obj
 CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.obj
 CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.obj
@@ -986,6 +962,30 @@ CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods
 CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.obj
 CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.obj
 CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj
+CPP_Course.exe: CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj
 CPP_Course.exe: CMakeFiles/CPP_Course.dir/build.make
 CPP_Course.exe: CMakeFiles/CPP_Course.dir/linkLibs.rsp
 CPP_Course.exe: CMakeFiles/CPP_Course.dir/objects1.rsp
