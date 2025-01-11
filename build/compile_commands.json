@@ -1,0 +1,344 @@
+[
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_4\\First_Program.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 4\\First_Program.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 4/First_Program.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_4/First_Program.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_4\\Section_Challenge.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 4\\Section_Challenge.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 4/Section_Challenge.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_4/Section_Challenge.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_6\\Section_Challenge.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 6\\Section_Challenge.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 6/Section_Challenge.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_6/Section_Challenge.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_7\\Section_challenge.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 7\\Section_challenge.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 7/Section_challenge.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_7/Section_challenge.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_7\\Theory.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 7\\Theory.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 7/Theory.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_7/Theory.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_8\\Assignment.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 8\\Assignment.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 8/Assignment.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_8/Assignment.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_8\\Increment_Decrement.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 8\\Increment_Decrement.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 8/Increment_Decrement.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_8/Increment_Decrement.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_8\\Logical_Operator.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 8\\Logical_Operator.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 8/Logical_Operator.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_8/Logical_Operator.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_8\\Mixed_Type_Operations.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 8\\Mixed_Type_Operations.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 8/Mixed_Type_Operations.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_8/Mixed_Type_Operations.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_8\\Relational_Operators.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 8\\Relational_Operators.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 8/Relational_Operators.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_8/Relational_Operators.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_8\\Section_Challenge.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 8\\Section_Challenge.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 8/Section_Challenge.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_8/Section_Challenge.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_8\\Testing_For_Equality.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 8\\Testing_For_Equality.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 8/Testing_For_Equality.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_8/Testing_For_Equality.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\Conditional_Or_Ternary_Operator.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\Conditional_Or_Ternary_Operator.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/Conditional_Or_Ternary_Operator.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/Conditional_Or_Ternary_Operator.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\Continue_break.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\Continue_break.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/Continue_break.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/Continue_break.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\SectionChallenge.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\SectionChallenge.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/SectionChallenge.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/SectionChallenge.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\do_while_loop.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\do_while_loop.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/do_while_loop.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/do_while_loop.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\for_loop.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\for_loop.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/for_loop.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/for_loop.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\if_else_statement.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\if_else_statement.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/if_else_statement.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/if_else_statement.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\if_statement.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\if_statement.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/if_statement.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/if_statement.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\infinite_loops.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\infinite_loops.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/infinite_loops.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/infinite_loops.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\nested_if_else.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\nested_if_else.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/nested_if_else.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/nested_if_else.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\nested_loops.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\nested_loops.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/nested_loops.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/nested_loops.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\switch_statement.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\switch_statement.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/switch_statement.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/switch_statement.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_9\\whileloop.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 9\\whileloop.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 9/whileloop.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_9/whileloop.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_10\\C++_Style_Strings.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 10\\C++_Style_Strings.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 10/C++_Style_Strings.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_10/C++_Style_Strings.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_10\\C_Style_Strings.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 10\\C_Style_Strings.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 10/C_Style_Strings.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_10/C_Style_Strings.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_10\\SectionChallenge.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 10\\SectionChallenge.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 10/SectionChallenge.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_10/SectionChallenge.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_11\\DefaultArgumentValuesAndFunctionOverloading.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 11\\DefaultArgumentValuesAndFunctionOverloading.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 11/DefaultArgumentValuesAndFunctionOverloading.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_11/DefaultArgumentValuesAndFunctionOverloading.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_11\\Factorial.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 11\\Factorial.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 11/Factorial.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_11/Factorial.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_11\\Fibonacci.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 11\\Fibonacci.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 11/Fibonacci.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_11/Fibonacci.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_11\\defining_function.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 11\\defining_function.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 11/defining_function.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_11/defining_function.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_11\\inlineFunctions.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 11\\inlineFunctions.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 11/inlineFunctions.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_11/inlineFunctions.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_11\\pass_by_reference.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 11\\pass_by_reference.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 11/pass_by_reference.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_11/pass_by_reference.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_11\\passing_arrays_to_function.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 11\\passing_arrays_to_function.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 11/passing_arrays_to_function.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_11/passing_arrays_to_function.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_11\\vectorExample_Pass_By_Reference.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 11\\vectorExample_Pass_By_Reference.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 11/vectorExample_Pass_By_Reference.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Reference.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_11\\vectorExample_Pass_By_Value.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 11\\vectorExample_Pass_By_Value.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 11/vectorExample_Pass_By_Value.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_11/vectorExample_Pass_By_Value.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Accesing_pointer_Address.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Accesing_pointer_Address.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Accesing_pointer_Address.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Accesing_pointer_Address.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Comparing_two_pointers.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Comparing_two_pointers.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Comparing_two_pointers.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Comparing_two_pointers.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Declaring_pointers.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Declaring_pointers.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Declaring_pointers.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Declaring_pointers.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Dereferencing_a_Pointer.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Dereferencing_a_Pointer.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Dereferencing_a_Pointer.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Dereferencing_a_Pointer.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Dynamic_Memory_Allocation.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Dynamic_Memory_Allocation.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Dynamic_Memory_Allocation.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Dynamic_Memory_Allocation_array.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Dynamic_Memory_Allocation_array.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Dynamic_Memory_Allocation_array.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Dynamic_Memory_Allocation_array.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Relation_Between_Arrays_and_Pointers.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Relation_Between_Arrays_and_Pointers.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Relation_Between_Arrays_and_Pointers.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Relation_Between_Arrays_and_Pointers.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Return_Dynamically_allocated_Memory.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Return_Dynamically_allocated_Memory.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Return_Dynamically_allocated_Memory.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Return_Dynamically_allocated_Memory.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Section_Challenge.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Section_Challenge.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Section_Challenge.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Section_Challenge.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\Storing_An_Address_In_Pointer_Variables.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\Storing_An_Address_In_Pointer_Variables.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/Storing_An_Address_In_Pointer_Variables.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/Storing_An_Address_In_Pointer_Variables.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_12\\pointers_In_Functions.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 12\\pointers_In_Functions.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 12/pointers_In_Functions.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_12/pointers_In_Functions.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Accessing_Class_Members.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Accessing_Class_Members.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Accessing_Class_Members.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Accessing_Class_Members.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Constructor_Initialization_list.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Constructor_Initialization_list.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Constructor_Initialization_list.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Constructor_Initialization_list.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Constructors_and_Destructors.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Constructors_and_Destructors.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Constructors_and_Destructors.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Declare_Class_and_Create_Objects.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Declare_Class_and_Create_Objects.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Declare_Class_and_Create_Objects.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Default_Constructor_Parameters.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Default_Constructor_Parameters.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Default_Constructor_Parameters.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Default_Constructor_Parameters.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Delegating_Constructor.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Delegating_Constructor.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Delegating_Constructor.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Implementing_Member_Methods\\Account.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Implementing Member Methods\\Account.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Implementing Member Methods/Account.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Implementing_Member_Methods\\Account_main.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Implementing Member Methods\\Account_main.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Implementing Member Methods/Account_main.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Account_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Implementing_Member_Methods\\Outside_Class_Declaration.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Implementing Member Methods\\Outside_Class_Declaration.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Implementing Member Methods/Outside_Class_Declaration.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/Outside_Class_Declaration.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Implementing_Member_Methods\\inside_Class_Declaration.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Implementing Member Methods\\inside_Class_Declaration.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Implementing Member Methods/inside_Class_Declaration.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj"
+}
+]
