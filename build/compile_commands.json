@@ -157,9 +157,21 @@
 },
 {
   "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Copy_Constructor.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Copy_Constructor.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Copy_Constructor.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Copy_Constructor.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
   "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Declare_Class_and_Create_Objects.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Declare_Class_and_Create_Objects.cpp\"",
   "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Declare_Class_and_Create_Objects.cpp",
   "output": "CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Deep_Copy_Constructor.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Deep_Copy_Constructor.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Deep_Copy_Constructor.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Deep_Copy_Constructor.cpp.obj"
 },
 {
   "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
@@ -172,6 +184,18 @@
   "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Delegating_Constructor.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Delegating_Constructor.cpp\"",
   "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Delegating_Constructor.cpp",
   "output": "CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Friend_Member_Functio.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Friend_Member_Functio.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Friend_Member_Functio.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Friend_Member_Functio.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Friend_NoMemberFunction.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Friend_NoMemberFunction.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Friend_NoMemberFunction.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Friend_NoMemberFunction.cpp.obj"
 },
 {
   "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
@@ -196,6 +220,30 @@
   "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Implementing_Member_Methods\\inside_Class_Declaration.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Implementing Member Methods\\inside_Class_Declaration.cpp\"",
   "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Implementing Member Methods/inside_Class_Declaration.cpp",
   "output": "CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Move_Constructor.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Move_Constructor.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Move_Constructor.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Move_Constructor.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\Shallow_Copy_Constructor.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\Shallow_Copy_Constructor.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/Shallow_Copy_Constructor.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/Shallow_Copy_Constructor.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\const_In_Classes.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\const_In_Classes.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/const_In_Classes.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/const_In_Classes.cpp.obj"
+},
+{
+  "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CPP_Course.dir\\Section_13\\static_Class_Members.cpp.obj -c \"C:\\Users\\SANYAM\\OneDrive\\Desktop\\C++ Course\\Section 13\\static_Class_Members.cpp\"",
+  "file": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/Section 13/static_Class_Members.cpp",
+  "output": "CMakeFiles/CPP_Course.dir/Section_13/static_Class_Members.cpp.obj"
 },
 {
   "directory": "C:/Users/SANYAM/OneDrive/Desktop/C++ Course/build",
