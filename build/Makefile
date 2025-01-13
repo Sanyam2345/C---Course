@@ -752,6 +752,30 @@ Section_13/Constructors_and_Destructors.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Constructors_and_Destructors.cpp.s
 .PHONY : Section_13/Constructors_and_Destructors.cpp.s
 
+Section_13/Copy_Constructor.obj: Section_13/Copy_Constructor.cpp.obj
+.PHONY : Section_13/Copy_Constructor.obj
+
+# target to build an object file
+Section_13/Copy_Constructor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Copy_Constructor.cpp.obj
+.PHONY : Section_13/Copy_Constructor.cpp.obj
+
+Section_13/Copy_Constructor.i: Section_13/Copy_Constructor.cpp.i
+.PHONY : Section_13/Copy_Constructor.i
+
+# target to preprocess a source file
+Section_13/Copy_Constructor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Copy_Constructor.cpp.i
+.PHONY : Section_13/Copy_Constructor.cpp.i
+
+Section_13/Copy_Constructor.s: Section_13/Copy_Constructor.cpp.s
+.PHONY : Section_13/Copy_Constructor.s
+
+# target to generate assembly for a file
+Section_13/Copy_Constructor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Copy_Constructor.cpp.s
+.PHONY : Section_13/Copy_Constructor.cpp.s
+
 Section_13/Declare_Class_and_Create_Objects.obj: Section_13/Declare_Class_and_Create_Objects.cpp.obj
 .PHONY : Section_13/Declare_Class_and_Create_Objects.obj
 
@@ -775,6 +799,30 @@ Section_13/Declare_Class_and_Create_Objects.s: Section_13/Declare_Class_and_Crea
 Section_13/Declare_Class_and_Create_Objects.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Declare_Class_and_Create_Objects.cpp.s
 .PHONY : Section_13/Declare_Class_and_Create_Objects.cpp.s
+
+Section_13/Deep_Copy_Constructor.obj: Section_13/Deep_Copy_Constructor.cpp.obj
+.PHONY : Section_13/Deep_Copy_Constructor.obj
+
+# target to build an object file
+Section_13/Deep_Copy_Constructor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Deep_Copy_Constructor.cpp.obj
+.PHONY : Section_13/Deep_Copy_Constructor.cpp.obj
+
+Section_13/Deep_Copy_Constructor.i: Section_13/Deep_Copy_Constructor.cpp.i
+.PHONY : Section_13/Deep_Copy_Constructor.i
+
+# target to preprocess a source file
+Section_13/Deep_Copy_Constructor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Deep_Copy_Constructor.cpp.i
+.PHONY : Section_13/Deep_Copy_Constructor.cpp.i
+
+Section_13/Deep_Copy_Constructor.s: Section_13/Deep_Copy_Constructor.cpp.s
+.PHONY : Section_13/Deep_Copy_Constructor.s
+
+# target to generate assembly for a file
+Section_13/Deep_Copy_Constructor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Deep_Copy_Constructor.cpp.s
+.PHONY : Section_13/Deep_Copy_Constructor.cpp.s
 
 Section_13/Default_Constructor_Parameters.obj: Section_13/Default_Constructor_Parameters.cpp.obj
 .PHONY : Section_13/Default_Constructor_Parameters.obj
@@ -823,6 +871,54 @@ Section_13/Delegating_Constructor.s: Section_13/Delegating_Constructor.cpp.s
 Section_13/Delegating_Constructor.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Delegating_Constructor.cpp.s
 .PHONY : Section_13/Delegating_Constructor.cpp.s
+
+Section_13/Friend_Member_Functio.obj: Section_13/Friend_Member_Functio.cpp.obj
+.PHONY : Section_13/Friend_Member_Functio.obj
+
+# target to build an object file
+Section_13/Friend_Member_Functio.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Friend_Member_Functio.cpp.obj
+.PHONY : Section_13/Friend_Member_Functio.cpp.obj
+
+Section_13/Friend_Member_Functio.i: Section_13/Friend_Member_Functio.cpp.i
+.PHONY : Section_13/Friend_Member_Functio.i
+
+# target to preprocess a source file
+Section_13/Friend_Member_Functio.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Friend_Member_Functio.cpp.i
+.PHONY : Section_13/Friend_Member_Functio.cpp.i
+
+Section_13/Friend_Member_Functio.s: Section_13/Friend_Member_Functio.cpp.s
+.PHONY : Section_13/Friend_Member_Functio.s
+
+# target to generate assembly for a file
+Section_13/Friend_Member_Functio.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Friend_Member_Functio.cpp.s
+.PHONY : Section_13/Friend_Member_Functio.cpp.s
+
+Section_13/Friend_NoMemberFunction.obj: Section_13/Friend_NoMemberFunction.cpp.obj
+.PHONY : Section_13/Friend_NoMemberFunction.obj
+
+# target to build an object file
+Section_13/Friend_NoMemberFunction.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Friend_NoMemberFunction.cpp.obj
+.PHONY : Section_13/Friend_NoMemberFunction.cpp.obj
+
+Section_13/Friend_NoMemberFunction.i: Section_13/Friend_NoMemberFunction.cpp.i
+.PHONY : Section_13/Friend_NoMemberFunction.i
+
+# target to preprocess a source file
+Section_13/Friend_NoMemberFunction.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Friend_NoMemberFunction.cpp.i
+.PHONY : Section_13/Friend_NoMemberFunction.cpp.i
+
+Section_13/Friend_NoMemberFunction.s: Section_13/Friend_NoMemberFunction.cpp.s
+.PHONY : Section_13/Friend_NoMemberFunction.s
+
+# target to generate assembly for a file
+Section_13/Friend_NoMemberFunction.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Friend_NoMemberFunction.cpp.s
+.PHONY : Section_13/Friend_NoMemberFunction.cpp.s
 
 Section_13/Implementing_Member_Methods/Account.obj: Section_13/Implementing_Member_Methods/Account.cpp.obj
 .PHONY : Section_13/Implementing_Member_Methods/Account.obj
@@ -919,6 +1015,102 @@ Section_13/Implementing_Member_Methods/inside_Class_Declaration.s: Section_13/Im
 Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.s
 .PHONY : Section_13/Implementing_Member_Methods/inside_Class_Declaration.cpp.s
+
+Section_13/Move_Constructor.obj: Section_13/Move_Constructor.cpp.obj
+.PHONY : Section_13/Move_Constructor.obj
+
+# target to build an object file
+Section_13/Move_Constructor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Move_Constructor.cpp.obj
+.PHONY : Section_13/Move_Constructor.cpp.obj
+
+Section_13/Move_Constructor.i: Section_13/Move_Constructor.cpp.i
+.PHONY : Section_13/Move_Constructor.i
+
+# target to preprocess a source file
+Section_13/Move_Constructor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Move_Constructor.cpp.i
+.PHONY : Section_13/Move_Constructor.cpp.i
+
+Section_13/Move_Constructor.s: Section_13/Move_Constructor.cpp.s
+.PHONY : Section_13/Move_Constructor.s
+
+# target to generate assembly for a file
+Section_13/Move_Constructor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Move_Constructor.cpp.s
+.PHONY : Section_13/Move_Constructor.cpp.s
+
+Section_13/Shallow_Copy_Constructor.obj: Section_13/Shallow_Copy_Constructor.cpp.obj
+.PHONY : Section_13/Shallow_Copy_Constructor.obj
+
+# target to build an object file
+Section_13/Shallow_Copy_Constructor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Shallow_Copy_Constructor.cpp.obj
+.PHONY : Section_13/Shallow_Copy_Constructor.cpp.obj
+
+Section_13/Shallow_Copy_Constructor.i: Section_13/Shallow_Copy_Constructor.cpp.i
+.PHONY : Section_13/Shallow_Copy_Constructor.i
+
+# target to preprocess a source file
+Section_13/Shallow_Copy_Constructor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Shallow_Copy_Constructor.cpp.i
+.PHONY : Section_13/Shallow_Copy_Constructor.cpp.i
+
+Section_13/Shallow_Copy_Constructor.s: Section_13/Shallow_Copy_Constructor.cpp.s
+.PHONY : Section_13/Shallow_Copy_Constructor.s
+
+# target to generate assembly for a file
+Section_13/Shallow_Copy_Constructor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/Shallow_Copy_Constructor.cpp.s
+.PHONY : Section_13/Shallow_Copy_Constructor.cpp.s
+
+Section_13/const_In_Classes.obj: Section_13/const_In_Classes.cpp.obj
+.PHONY : Section_13/const_In_Classes.obj
+
+# target to build an object file
+Section_13/const_In_Classes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/const_In_Classes.cpp.obj
+.PHONY : Section_13/const_In_Classes.cpp.obj
+
+Section_13/const_In_Classes.i: Section_13/const_In_Classes.cpp.i
+.PHONY : Section_13/const_In_Classes.i
+
+# target to preprocess a source file
+Section_13/const_In_Classes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/const_In_Classes.cpp.i
+.PHONY : Section_13/const_In_Classes.cpp.i
+
+Section_13/const_In_Classes.s: Section_13/const_In_Classes.cpp.s
+.PHONY : Section_13/const_In_Classes.s
+
+# target to generate assembly for a file
+Section_13/const_In_Classes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/const_In_Classes.cpp.s
+.PHONY : Section_13/const_In_Classes.cpp.s
+
+Section_13/static_Class_Members.obj: Section_13/static_Class_Members.cpp.obj
+.PHONY : Section_13/static_Class_Members.obj
+
+# target to build an object file
+Section_13/static_Class_Members.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/static_Class_Members.cpp.obj
+.PHONY : Section_13/static_Class_Members.cpp.obj
+
+Section_13/static_Class_Members.i: Section_13/static_Class_Members.cpp.i
+.PHONY : Section_13/static_Class_Members.i
+
+# target to preprocess a source file
+Section_13/static_Class_Members.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/static_Class_Members.cpp.i
+.PHONY : Section_13/static_Class_Members.cpp.i
+
+Section_13/static_Class_Members.s: Section_13/static_Class_Members.cpp.s
+.PHONY : Section_13/static_Class_Members.s
+
+# target to generate assembly for a file
+Section_13/static_Class_Members.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Course.dir\build.make CMakeFiles/CPP_Course.dir/Section_13/static_Class_Members.cpp.s
+.PHONY : Section_13/static_Class_Members.cpp.s
 
 Section_4/First_Program.obj: Section_4/First_Program.cpp.obj
 .PHONY : Section_4/First_Program.obj
@@ -1583,15 +1775,27 @@ help:
 	@echo ... Section_13/Constructors_and_Destructors.obj
 	@echo ... Section_13/Constructors_and_Destructors.i
 	@echo ... Section_13/Constructors_and_Destructors.s
+	@echo ... Section_13/Copy_Constructor.obj
+	@echo ... Section_13/Copy_Constructor.i
+	@echo ... Section_13/Copy_Constructor.s
 	@echo ... Section_13/Declare_Class_and_Create_Objects.obj
 	@echo ... Section_13/Declare_Class_and_Create_Objects.i
 	@echo ... Section_13/Declare_Class_and_Create_Objects.s
+	@echo ... Section_13/Deep_Copy_Constructor.obj
+	@echo ... Section_13/Deep_Copy_Constructor.i
+	@echo ... Section_13/Deep_Copy_Constructor.s
 	@echo ... Section_13/Default_Constructor_Parameters.obj
 	@echo ... Section_13/Default_Constructor_Parameters.i
 	@echo ... Section_13/Default_Constructor_Parameters.s
 	@echo ... Section_13/Delegating_Constructor.obj
 	@echo ... Section_13/Delegating_Constructor.i
 	@echo ... Section_13/Delegating_Constructor.s
+	@echo ... Section_13/Friend_Member_Functio.obj
+	@echo ... Section_13/Friend_Member_Functio.i
+	@echo ... Section_13/Friend_Member_Functio.s
+	@echo ... Section_13/Friend_NoMemberFunction.obj
+	@echo ... Section_13/Friend_NoMemberFunction.i
+	@echo ... Section_13/Friend_NoMemberFunction.s
 	@echo ... Section_13/Implementing_Member_Methods/Account.obj
 	@echo ... Section_13/Implementing_Member_Methods/Account.i
 	@echo ... Section_13/Implementing_Member_Methods/Account.s
@@ -1604,6 +1808,18 @@ help:
 	@echo ... Section_13/Implementing_Member_Methods/inside_Class_Declaration.obj
 	@echo ... Section_13/Implementing_Member_Methods/inside_Class_Declaration.i
 	@echo ... Section_13/Implementing_Member_Methods/inside_Class_Declaration.s
+	@echo ... Section_13/Move_Constructor.obj
+	@echo ... Section_13/Move_Constructor.i
+	@echo ... Section_13/Move_Constructor.s
+	@echo ... Section_13/Shallow_Copy_Constructor.obj
+	@echo ... Section_13/Shallow_Copy_Constructor.i
+	@echo ... Section_13/Shallow_Copy_Constructor.s
+	@echo ... Section_13/const_In_Classes.obj
+	@echo ... Section_13/const_In_Classes.i
+	@echo ... Section_13/const_In_Classes.s
+	@echo ... Section_13/static_Class_Members.obj
+	@echo ... Section_13/static_Class_Members.i
+	@echo ... Section_13/static_Class_Members.s
 	@echo ... Section_4/First_Program.obj
 	@echo ... Section_4/First_Program.i
 	@echo ... Section_4/First_Program.s

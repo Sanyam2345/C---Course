@@ -108,7 +108,15 @@
 				53,
 				54,
 				55,
-				56
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64
 			]
 		}
 	],
@@ -201,7 +209,15 @@
 				53,
 				54,
 				55,
-				56
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64
 			]
 		}
 	],
@@ -366,7 +382,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "Section 13/Copy_Constructor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
 			"path" : "Section 13/Declare_Class_and_Create_Objects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Section 13/Deep_Copy_Constructor.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -379,6 +407,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Section 13/Delegating_Constructor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Section 13/Friend_Member_Functio.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Section 13/Friend_NoMemberFunction.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -403,6 +443,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Section 13/Implementing Member Methods/inside_Class_Declaration.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Section 13/Move_Constructor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Section 13/Shallow_Copy_Constructor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Section 13/const_In_Classes.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Section 13/static_Class_Members.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
