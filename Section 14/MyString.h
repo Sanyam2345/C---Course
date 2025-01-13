@@ -13,7 +13,6 @@ class Mystring {
     Mystring (const Mystring &source);
     ~Mystring ();
     Mystring &operator= (const Mystring &rhs);
-    Mystring &operator= (Mystring &&rhs);
     void display () const;
     int get_length () const;
     const char *get_str () const;
@@ -51,16 +50,6 @@ Mystring &Mystring::operator= (const Mystring &rhs) {
     delete [] str;
     str = new char[strlen(rhs.str) + 1];
     strcpy(str, rhs.str);
-    return *this;
-}
-
-Mystring &Mystring::operator= (Mystring &&rhs) {
-    if (this == &rhs) {
-        return *this;
-    }
-    delete [] str;
-    str = rhs.str;
-    rhs.str = nullptr;
     return *this;
 }
 
