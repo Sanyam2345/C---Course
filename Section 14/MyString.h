@@ -13,6 +13,8 @@ class Mystring {
     Mystring (const Mystring &source);
     ~Mystring ();
     Mystring &operator= (const Mystring &rhs);
+    Mystring operator+ (const Mystring &rhs) const;
+    Mystring operator- () const;
     void display () const;
     int get_length () const;
     const char *get_str () const;
@@ -51,6 +53,27 @@ Mystring &Mystring::operator= (const Mystring &rhs) {
     str = new char[strlen(rhs.str) + 1];
     strcpy(str, rhs.str);
     return *this;
+}
+
+Mystring Mystring::operator+(const Mystring &rhs) const { //Concatenation
+    size_t buff_size = strlen(str) + (strlen(rhs.str)+1);
+    char *buff = new char [buff_size];
+    strcpy(buff, str);
+    strcat(buff, rhs.str);
+    Mystring temp {buff};
+    delete []buff;
+    return temp;
+}
+
+Mystring Mystring::operator-() const {
+    char *buff = new char [strlen(str) + 1];
+    strcpy (buff, str);
+    for (size_t i = 0; i < strlen(buff); i++) {
+        buff[i] = tolower(buff[i]);
+    }
+    Mystring temp {buff};
+    delete [] buff;
+    return temp;
 }
 
 void Mystring::display () const {
