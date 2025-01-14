@@ -84,8 +84,7 @@ istream &operator>>(istream &is, Mystring &obj) {
     obj = Mystring{buff};
     delete[] buff;
     return is;
-}
-    
+}   
 
 ostream &operator<<(ostream &os, Mystring &obj) {
     os << obj.get_str();
