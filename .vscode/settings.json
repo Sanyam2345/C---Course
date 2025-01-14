@@ -2,6 +2,10 @@
     "files.associations": {
         "string": "cpp",
         "format": "cpp",
-        "c++": "cpp"
+        "c++": "cpp",
+        "*.tcc": "cpp",
+        "compare": "cpp",
+        "memory_resource": "cpp",
+        "type_traits": "cpp"
     }
 }

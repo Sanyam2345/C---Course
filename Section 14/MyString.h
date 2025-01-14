@@ -15,6 +15,8 @@ class Mystring {
     Mystring &operator= (const Mystring &rhs);
     Mystring operator+ (const Mystring &rhs) const;
     Mystring operator- () const;
+    istream &operator>>(Mystring &obj);
+    ostream &operator<<(Mystring &obj);
     void display () const;
     int get_length () const;
     const char *get_str () const;
@@ -75,6 +77,21 @@ Mystring Mystring::operator-() const {
     delete [] buff;
     return temp;
 }
+
+istream &operator>>(istream &is, Mystring &obj) {
+    char *buff = new char[1000];
+    is >> buff;
+    obj = Mystring{buff};
+    delete[] buff;
+    return is;
+}
+    
+
+ostream &operator<<(ostream &os, Mystring &obj) {
+    os << obj.get_str();
+    return os;
+}
+
 
 void Mystring::display () const {
     cout << str << endl;
